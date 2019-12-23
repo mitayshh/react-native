@@ -19,7 +19,7 @@
 				"s3TemplateURL": "https://s3.amazonaws.com/reactnativeauth-rnauth-20191223101535-deployment/amplify-cfn-templates/auth/reactnativeauthd7d54e4a-cloudformation-template.yml",
 				"logicalId": "authreactnativeauthd7d54e4a"
 			},
-			"lastPushTimeStamp": "2019-12-23T04:50:52.020Z",
+			"lastPushTimeStamp": "2019-12-23T06:06:29.397Z",
 			"output": {
 				"AppClientSecret": "bavbne8qfvrvgjd7sofj0kk7k7qdfo8h2p6jt0j11ci4804aflr",
 				"UserPoolId": "us-west-2_X9ACyKOKe",
@@ -29,7 +29,7 @@
 				"IdentityPoolName": "reactnativeauthd7d54e4a_identitypool_d7d54e4a__rnauth",
 				"UserPoolName": "reactnativeauthd7d54e4a_userpool_d7d54e4a"
 			},
-			"lastPushDirHash": "ajAmWRJgJze9+IQd3N6Gx2WIcnE="
+			"lastPushDirHash": "ajQg1ry6IEs1QlKvpDsHErxbuGs="
 		}
 	}
 }
