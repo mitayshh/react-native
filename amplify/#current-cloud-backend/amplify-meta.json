@@ -1,0 +1,35 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "reactnativeauth-rnauth-20191223101535-authRole",
+			"UnauthRoleArn": "arn:aws:iam::594378165630:role/reactnativeauth-rnauth-20191223101535-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::594378165630:role/reactnativeauth-rnauth-20191223101535-authRole",
+			"Region": "us-west-2",
+			"DeploymentBucketName": "reactnativeauth-rnauth-20191223101535-deployment",
+			"UnauthRoleName": "reactnativeauth-rnauth-20191223101535-unauthRole",
+			"StackName": "reactnativeauth-rnauth-20191223101535",
+			"StackId": "arn:aws:cloudformation:us-west-2:594378165630:stack/reactnativeauth-rnauth-20191223101535/102b1e10-253f-11ea-9202-066f1b43b848"
+		}
+	},
+	"auth": {
+		"reactnativeauthd7d54e4a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/reactnativeauth-rnauth-20191223101535-deployment/amplify-cfn-templates/auth/reactnativeauthd7d54e4a-cloudformation-template.yml",
+				"logicalId": "authreactnativeauthd7d54e4a"
+			},
+			"lastPushTimeStamp": "2019-12-23T04:50:52.020Z",
+			"output": {
+				"AppClientSecret": "bavbne8qfvrvgjd7sofj0kk7k7qdfo8h2p6jt0j11ci4804aflr",
+				"UserPoolId": "us-west-2_X9ACyKOKe",
+				"AppClientIDWeb": "4929ta90sgj81bdo0beuu2lsn0",
+				"AppClientID": "227hlhoaa6v3h3eldll6djae43",
+				"IdentityPoolId": "us-west-2:04729571-6df2-4f1e-8211-df55ff6cd89c",
+				"IdentityPoolName": "reactnativeauthd7d54e4a_identitypool_d7d54e4a__rnauth",
+				"UserPoolName": "reactnativeauthd7d54e4a_userpool_d7d54e4a"
+			},
+			"lastPushDirHash": "ajAmWRJgJze9+IQd3N6Gx2WIcnE="
+		}
+	}
+}

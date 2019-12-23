@@ -1,0 +1,7 @@
+{
+    "rnauth": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "/Users/mitayshd/.amplify/awscloudformation/BseXzm5xkc"
+    }
+}
